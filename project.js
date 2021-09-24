@@ -23,7 +23,7 @@ const createButton = (className) => {
 
 function clickOnButton (){
   outputResult.setAttribute('class', 'output-click')
-outputResult.innerHTML = `What can i do here?`
+outputResult.innerHTML = `there will be list with aim-but it not exactly`
 }
 
 let page = document.querySelector('.page');
